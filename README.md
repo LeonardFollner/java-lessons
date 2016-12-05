@@ -9,3 +9,8 @@ Please install an IDE on your system! We recommand IntelliJ, which is free for a
 Also notable is eclipse.
 
 Please read the slide from the first lesson if you got any other questions.
+
+## UPDATE
+From now on all material can be found at [http://fsr.github.io/java-lessons/](http://fsr.github.io/java-lessons/)
+
+This repository hosts `code` _only_
