@@ -7,7 +7,7 @@ public class User {
 
 
 	public User(String username) {
-		this.username = "Buggy " + username;
+		this.username = username;
 	}
 
 	@Override

@@ -41,7 +41,7 @@ public class Controller {
 		JFrame window = new JFrame();
 
 		// Set its title and size
-		window.setTitle("Buggy Guestbook");
+		window.setTitle("Guestbook");
 		window.setSize(500, 500);
 
 		JSplitPane splitPane = new JSplitPane();

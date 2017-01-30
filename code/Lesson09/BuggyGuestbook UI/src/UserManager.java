@@ -1,5 +1,3 @@
-import javafx.geometry.Pos;
-
 import javax.swing.*;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
@@ -7,7 +5,6 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.HashMap;
-import java.util.Scanner;
 
 /**
  * Created by alex on 07/12/2016.
@@ -42,6 +39,7 @@ public class UserManager {
 
 		User user = new User(userName);
 		users.put(currentId, user);
+		currentId++;
 
 		System.out.println("Added new user " + userName);
 
