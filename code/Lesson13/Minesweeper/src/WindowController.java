@@ -209,7 +209,7 @@ public class WindowController {
     }
 
     /**
-     * This method updates the appearance of one "Field" to match its current state in the game
+     * This method updates the appearance of one {@link Field} representation tttrttttr4r^^^^^to match its current state in the game
      * @param field the field to be updated
      */
 
